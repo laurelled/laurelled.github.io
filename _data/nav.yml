@@ -1,6 +1,3 @@
-- name: Posts
-  link: /posts
-- name: Categories
-  link: /categories/
-- name: About & Contact
-  link: /
+# TODO: fill with routes when deploying projects
+# - name: Posts
+#  link: /posts

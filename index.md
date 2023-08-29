@@ -16,7 +16,7 @@ As I mentioned, I am a curious person. Thus, I usually spend my free time readin
 <br/>
 <br/>
 Recently, I started to make small projects or contribute in Open Source existing ones. You can find my publicly shared works on my [GitHub page](https://github.com/laurelled), although they're not many.
-<p float="left">
+<p align="middle">
     <img src="https://raw.githubusercontent.com/laurelled/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="45%" />
     <img src="https://raw.githubusercontent.com/laurelled/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="45%" />
 </p>
